@@ -1,3 +1,5 @@
+package Homework1and2;
+
 public class PhraseOMatic {
     public static void main(String[] args) {
         String[] wordListOne = {"zero", "no" , "absolutely no"};
