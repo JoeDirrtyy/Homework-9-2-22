@@ -21,3 +21,4 @@ Reading notes:
 -methods can have multiple parameters, seperate them with commas when you declare them, and seperate the arguments with commas when you pass them.
 -if a method has parameters you MUST pass arguments of the right type and order
 
+# Classwork-9-6-22
